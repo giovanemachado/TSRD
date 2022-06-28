@@ -1,8 +1,12 @@
 # TSRD
 
-Projeto feito em 48h para o Game Jam Magalu! - 2022 (https://itch.io/jam/magalu), cujo tema eram sons de construcao civil (ou algo assim). Pagina no itch: https://giovanemachado.itch.io/tsrd-transportes-para-construir-seus-sonhos.
+Projeto feito em 48h para o Game Jam Magalu! - 2022 (https://itch.io/jam/magalu), cujo tema eram sons de construcao civil (ou algo assim).
 
-Jogo disponivel na pasta zipada TSRD (basta extrair e rodar o executavel interno de nome TSRD tambem).
+## Para jogar:
+
+Acesse a pagina do Itch: https://giovanemachado.itch.io/tsrd-transportes-para-construir-seus-sonhos. e faca o download.
+
+O executavel se chama TSRD, e fica na pasta zipada TSRD.
 
 ---
 
