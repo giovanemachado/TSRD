@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abdcbe4a3a9ba2e409d9b1e495cfeaaa, type: 3}
+  m_Name: GameSettings
+  m_EditorClassIdentifier: 
+  playingGame: 0
+  isGameOver: 0
+  timeToGoBackGameArea: 0
+  shouldCountDown: 0
+  shipCanMove: 0
+  shipMoveDownAlwaysSpeed: 0
+  isMovingUp: 0
+  isMovingDown: 0
+  isTurningRight: 0
+  isTurningLeft: 0
+  isMovingToward: 0
+  isGrabbing: 0
+  shipMoveUpSpeed: 3
+  shipMoveDownSpeed: 2
+  shipTurnRightSpeed: 10
+  shipTurnLeftSpeed: 10
+  shipMoveTowardSpeed: 2.5
+  shouldGenerateANewBuilding: 0
+  buildingRandomSizeInitial: 0.8
+  buildingRandomSizeFinal: 1.5
+  buildingRandomRotationInitial: 0
+  buildingRandomRotationFinal: 360
