@@ -21,14 +21,8 @@ You pilot a ship in tests whose purpose is to facilitate the construction of bui
   </ul>
 </details>
 
-<br>
-
-
 <h2 id="#about-the-game"> About the game</h2>
 You pilot a fly truck in tests whose purpose is to facilitate the construction of buildings! Just beside (your left, at the beginning) of the city there will be different blocks of buildings, and you must take them to the construction mark (your right, at the beginning). Stack them up there to see how to make a building stable and fast!
-
-<br>
-<br>
 
 <h2 id="#how-to-play"> How to play</h2>
 Download the game here: https://giovanemachado.itch.io/tsrd-transportes-para-construir-seus-sonhos
@@ -39,14 +33,8 @@ To get a block, approach with the front of the truck on a block, then use the bu
 
 Dropping the block in the wrong place, or crashing this magnificent fly truck will cause a game over!
 
-<br>
-<br>
-
 <h2 id="#game-design"> Game design</h2>
 I have kept the game jam theme (Construction sounds) and used the idea of being inside a machine too. Inspired by Sea of Thieves (when you are controlling your ship) and Iron Lungs, I tried to explore this kind of situation, where you need to keep tracking of a lot of controls to do a specific task using it.
-
-<br>
-<br>
 
 <h2 id="#game-development"> Game development</h2>
 This was a 48h project for Game Jam Magalu! - 2022 (https://itch.io/jam/magalu), so most of the code does not has good refactoring or tests.
@@ -54,9 +42,6 @@ This was a 48h project for Game Jam Magalu! - 2022 (https://itch.io/jam/magalu),
 The game has a simple state machine that controls almost all the flow, besides hacks of the last hours.
 
 I used Unity as my primary tool, a bit of Blender and Audacity. I created the levers animations inside Unity too.
-
-<br>
-<br>
 
 <h2 id="#credits"> Credits</h2>
 <a href="https://github.com/giovanemachado"> Giovane Machado </a> - game design and game development
